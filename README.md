@@ -1,5 +1,5 @@
-# Unblock-Paste
-Unblock paste, hotkey f1
+# Unblock Paste
+Unblock paste, if some porgramm or site block it!
 # someone doesn't allow you to insert text?
 We will fix it!
 # installation:
