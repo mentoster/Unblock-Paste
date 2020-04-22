@@ -1,12 +1,12 @@
 # Unblock Paste
 Unblock paste, if some porgramm or site block it!
-# someone doesn't allow you to insert text?
+# Someone doesn't allow you to insert text?
 We will fix it!
-# installation:
+# Installation:
 1. Download PyCharm.
 2. Download Python 3.x.
 3. Clone project.
 4. installation.
-# how to use:
+# How to use:
 1. Run programm
 2. Use F2 for paste text!
