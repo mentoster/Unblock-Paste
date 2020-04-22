@@ -6,7 +6,7 @@ We will fix it!
 1. Download PyCharm.
 2. Download Python 3.x.
 3. Clone project.
-4. installation.
+4. Install the necessary libraries
 # How to use:
-1. Run programm
+1. Run programm.
 2. Use F2 for paste text!
