@@ -1,5 +1,5 @@
 # Unblock Paste
-Unblock paste, if some porgramm or site block it!
+Unblock paste, if some programm or site block it!
 # Someone doesn't allow you to insert text?
 We will fix it!
 # Installation:
